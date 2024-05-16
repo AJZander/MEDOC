@@ -55,13 +55,7 @@ Here prerequisites and installation procedures will be discussed.
 XML parsing libraries may be needed. You can install them on any Debian-derived system with:
 
 ```bash
-	sudo apt-get install libxml2-dev libxslt1-dev zlib1g-dev
-```
-
-You may also need `python-dev`. You can also install it with the same command:
-
-```bash
-	sudo apt-get install python-dev
+	sudo apt-get install libxml2-dev libxslt1-dev zlib1g-dev python-dev-is-python3 python3.11-venv
 ```
 
 #### Installation

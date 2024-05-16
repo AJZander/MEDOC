@@ -16,6 +16,8 @@ import time
 import logging
 import configparser
 import multiprocessing as mp
+import collections
+collections.Callable = collections.abc.Callable
 
 sys.path.append('./lib')
 import MEDOC

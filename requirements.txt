@@ -1,7 +1,7 @@
 bs4==0.0.1
 beautifulsoup4==4.6.0
 configparser==3.5.0
-Cython==0.27.2
+Cython
 html5lib==0.999999999
 lxml==4.9.1
 mysql-connector-python>=0.7.11
